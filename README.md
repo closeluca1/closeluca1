@@ -16,11 +16,11 @@
 ### More
   
 - [Personal page](https://closeluca1.github.io/personal-page/) ✍🏼 - My progress.
-- [Website](https://csstutorial.com.br/) 💻 - Working on it && To create this site I'm using bootstrap+SASS, php+laravel and SEO techniques; the idea for csstutorial.com.br site is to be a collection of front-end content translated into portuguese to those who are just starting out and who want to improve in the area.
+- [Website](https://csstutorial.com.br/) 💻 - Working on it && To create this site I'm using bootstrap+SASS, Js+NodeJs and SEO techniques; the idea for csstutorial.com.br site is to be a collection of front-end content translated into portuguese to those who are just starting out and who want to improve in the area.
 
 
   <a href="https://github.com/closeluca1">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=closeluca1&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=closeluca1&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=closeluca1&layout=compact&langs_count=7&theme=merko"/>
   
   
