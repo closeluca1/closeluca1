@@ -1,7 +1,12 @@
 ### Hi, I'm Patrick! xD
 
-- Front-End developer
-- User interface designer
+- Front-End developer `&` User interface designer
+  - knowledge
+    - HTML5 `&` CSS3
+    - Bootstrap `&` Sass
+    - Laravel
+    - Vue
+    - _Figma_ `&` _Photoshop_
 - Amateur writer
 
 ##
