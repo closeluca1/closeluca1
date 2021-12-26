@@ -21,7 +21,7 @@
 ### More
   
 - [Personal page](https://closeluca1.github.io/personal-page/) ✍🏼 - My progress.
-- [Website](https://csstutorial.com.br/) 💻 - Working on it && To create this site I'm using bootstrap+SASS, Js+NodeJs and SEO techniques; the idea for csstutorial.com.br site is to be a collection of front-end content translated into portuguese to those who are just starting out and who want to improve in the area.
+- [Website](https://csstutorial.com.br/) 💻 - Working on it && To create this site I'm using bootstrap+SASS, Vue3+NodeJs and SEO techniques; the idea for csstutorial.com.br site is to be a collection of front-end content translated into portuguese to those who are just starting out and who want to improve in the area.
 
 
   <a href="https://github.com/closeluca1">
