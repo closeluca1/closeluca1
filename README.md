@@ -21,7 +21,8 @@
 ### More
   
 - [Personal page](https://closeluca1.github.io/personal-page/) ✍🏼 - My progress.
-- [Website](https://csstutorial.com.br/) 💻 - Working on it && To create this site I'm using bootstrap+SASS, JavaScript+NodeJs and SEO techniques; the idea for csstutorial.com.br site is to be a collection of front-end content translated into portuguese to those who are just starting out and who want to improve in the area.
+- [Blog css tutorial](https://csstutorial.com.br/) 💻 - Working on it `&&` To create this site I'm using bootstrap+SASS, JavaScript+NodeJs and SEO techniques; the idea for csstutorial.com.br site is to be a blog of front-end content translated into portuguese to those who are just starting out and who want to improve in the area.
+- [Website Case Buttons](https://casebuttons.com/) 💻  Working on it `&&` Site being created with /Vue 3/, Bootstrap+Sass, NodeJs and SEO techniques being applied; The site is a collection of pre-styled buttons with CSS code available for use in projects.
 
 
   <a href="https://github.com/closeluca1">
