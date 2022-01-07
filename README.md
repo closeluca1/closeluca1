@@ -4,8 +4,7 @@
   - knowledge
     - HTML5 `&` CSS3
     - Bootstrap `&` Sass
-    - Laravel
-    - Vue
+    - Java$cript `&` Typescript 
     - _Figma_ `&` _Photoshop_
 - Amateur writer
 
