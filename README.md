@@ -3,7 +3,7 @@
 - Front-End developer `&` User interface designer
   - knowledge
     - HTML5 `&` CSS3
-    - Bootstrap `&` Sass
+    - Bootstrap `&` Tailwindcss
     - Java$cript `&` Typescript 
     - _Figma_ `&` _Photoshop_
 - Amateur writer
