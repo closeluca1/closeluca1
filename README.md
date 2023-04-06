@@ -1,4 +1,22 @@
-<!-- ### Hi, I'm Patrick! xD
+### Hi, I'm Patrick! xD
+
+- Front-End `&` Node developer
+  - knowledge
+    - HTML5 `&` CSS3
+    - Bootstrap `&` Tailwindcss
+    - Java$cript `&` Typescript 
+    - _React_ `&` _React Native_
+    - NodeJs `&` _MongoDB_
+
+#### my accomplishments
+
+[x] Ela frases
+  - Application built in `react native`, `nodejs/mongo` with authentication system. The application is a generator of daily motivational phrases, where the user can save the phrase, view others who liked them, suggest content and edit the profile; App available on PlayStore.
+    - >https://play.google.com/store/apps/details?id=com.elafrases
+
+##
+
+<!-- 
 
 - Front-End developer `&` User interface designer
   - knowledge
