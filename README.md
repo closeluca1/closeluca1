@@ -8,14 +8,14 @@
     - _React_ `&` _React Native_
     - NodeJs `&` _MongoDB_
 
-#### my accomplishments
+<!-- #### my accomplishments
 [x] Achei Que Sabia Jogar
   - portfolio page
     - > https://acheiquesabiajogar.com.br/
 
 [x] Ela frases
   - Application built in `react native`, `nodejs/mongo` with authentication system. The application is a generator of daily motivational phrases, where the user can save the phrase, view others who liked them, suggest content and edit the profile; App available on PlayStore.
-    - >https://play.google.com/store/apps/details?id=com.elafrases
+    - >https://play.google.com/store/apps/details?id=com.elafrases -->
 
 ##
 
