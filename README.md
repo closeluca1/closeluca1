@@ -1,6 +1,9 @@
 ### Hi, I'm Patrick! xD
 
-- Front-End `&` Node developer
+Gosto de desenvolver aplicações web, desde o banco de dados até o front-end que é onde posso destacar as incríveis funcionalidades que crio. Quando necessário, também trabalho em desenvolvimento mobile com React Native. Transformar ideias dos clientes em ferramentas úteis é um barato.
+
+<!--
+- Full-Stack developer
   - knowledge
     - HTML5 `&` CSS3
     - Bootstrap `&` Tailwindcss
@@ -9,6 +12,9 @@
     - NodeJs `&` _MongoDB_
     - MySQL 
 
+[x] Figma 
+[x] photoshop
+-->
 <!-- #### my accomplishments
 [x] Achei Que Sabia Jogar
   - portfolio page
