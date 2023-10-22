@@ -2,6 +2,17 @@
 
 Gosto de desenvolver aplicações web, desde o banco de dados até o front-end que é onde posso destacar as incríveis funcionalidades que crio. Quando necessário, também trabalho em desenvolvimento mobile com React Native. Transformar ideias dos clientes em ferramentas úteis é um barato.
 
+_Programador <b>d</b>esde 2019_
+
+<h3>"Code e Confia"</h3>
+<li>📍 De Vila <i>V</i>elha - ES</li>
+<li>💻 Diretor de Tecnologia de Operações <a href='https://hubresult.com/' target='_blanc'>HubResult</a></li>
+<li>📜 Graduação, Superior em Desenvolvimento de Banco de Dados (CST) - 2021 - 2023</li>
+<ul></ul>
+<p>Tecnologias q<i>u</i>e utilizo 👇🏼</p>
+
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,php,mysql,tailwind,figma,vscode&perline=10)](https://hubresult.com/patrick-martins)
+ 
 <!--
 - Full-Stack developer
   - knowledge
