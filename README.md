@@ -8,6 +8,7 @@ _Programador <b>d</b>esde 2019_
 <li>📍 De Vila <i>V</i>elha - ES</li>
 <li>💻 Diretor de Tecnologia de Operações <a href='https://hubresult.com/' target='_blanc'>HubResult</a></li>
 <li>📜 Graduação, Superior em Desenvolvimento de Banco de Dados (CST) - 2021 - 2023</li>
+<li>☕ <a href='https://www.youtube.com/@closeluca1'>Meu canal do youtube</a></li>
 <ul></ul>
 <p>Tecnologias q<i>u</i>e utilizo 👇🏼</p>
 
