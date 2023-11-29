@@ -2,6 +2,8 @@
 
 Gosto de desenvolver aplicações web, desde o banco de dados até o front-end que é onde posso destacar as incríveis funcionalidades que crio. Quando necessário, também trabalho em desenvolvimento mobile com React Native. Transformar ideias dos clientes em ferramentas úteis é um barato.
 
+Atualmente estou focado em aprimorar meu conhecimento em segurança da informação.
+
 _Programador <b>d</b>esde 2019_
 
 <h3>"Code e Confia"</h3>
