@@ -14,7 +14,7 @@ _Programador <b>d</b>esde 2019_
 <ul></ul>
 <p>Tecnologias q<i>u</i>e utilizo 👇🏼</p>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nestjs,mongodb,php,mysql,firebase,tailwind,figma,vscode&perline=10)](https://hubresult.com/patrick-martins)
+[![My Skills](https://skillicons.dev/icons?i=react,golang,nodejs,mongodb,php,mysql,firebase,tailwind,figma,vscode&perline=10)](https://hubresult.com/patrick-martins)
  
 <!--
 - Full-Stack developer
