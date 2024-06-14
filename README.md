@@ -1,16 +1,35 @@
-### Hi, I'm Patrick! xD
+## Hi, I'm Patrick! xD
 
-Gosto de desenvolver aplicações web, desde o banco de dados até o front-end que é onde posso destacar as incríveis funcionalidades que crio. Quando necessário, também trabalho em desenvolvimento mobile com React Native. Transformar ideias dos clientes em ferramentas úteis é um barato.
+Sou um desenvolvedor de software de Vila Velha, ES, Brasil, com uma sólida base em tecnologias front-end e back-end. Adoro desenvolver aplicações web, desde o gerenciamento de banco de dados até a criação de interfaces front-end amigáveis. Também me aprofundo no desenvolvimento mobile com React Native quando necessário. Meu objetivo é transformar as ideias dos clientes em ferramentas práticas e úteis.
 
-Atualmente estou focado em aprimorar meu conhecimento em segurança da informação.
+Atualmente, estou focado em aprimorar meus conhecimentos em Segurança da Informação para garantir que as aplicações que desenvolvo sejam não apenas funcionais, mas também seguras.
 
 _Programador <b>d</b>esde 2019_
 
 <h3>"Code e Confia"</h3>
-<li>📍 De Vila <i>V</i>elha - ES</li>
-<li>💻 Diretor de Tecnologia de Operações <a href='https://hubresult.com/' target='_blanc'>HubResult</a></li>
+<!-- <li>📍 De Vila <i>V</i>elha - ES</li> -->
+
+### Experiências
+<li>💻 Diretor de Tecnologia de Operações <a href='https://hubresult.com/' target='_blanc'>HubResult</a> (atualmente)</li>
+<li>Desenvolvedor Freelance React Native do app Shopping Parts</li>
+<li>Desenvolvedor Full Stack Web na agência Dellossi</li>
+<li>Desenvolvedor Front-end Web na empresa D A C S Tecnologia da Informação</li>
+<li>Desenvolvedor Web interno na empresa Dado Digital Informática e Eletrônicos</li>
+
+### Educação
 <li>📜 Graduação, Superior em Desenvolvimento de Banco de Dados (CST) - 2021 - 2023</li>
-<li>☕ <a href='https://www.youtube.com/@closeluca1'>Meu canal do youtube</a></li>
+
+### Certificações
+<li>React Native – Udemy</li>
+<li>EXIN ISO 27001: Information Security Fundamentals – Udemy</li>
+<li>Green Belt Lean Six Sigma – The Council For Six Sigma</li>
+<li>Diversos cursos sobre Segurança da Informação e LGPD – Enap</li>
+
+### Contato
+<li><a href='https://www.linkedin.com/in/p-luca' target='_blanc'>Linkedin</a></li>
+<li><a href='https://closeluca1.github.io/patrick-martins-resume/' target='_blanc'>Curriculo</a></li>
+<li>☕ <a href='https://www.instagram.com/closeluca1' target='_blanc'>Instagram</a></li>
+<li><a href='https://www.youtube.com/@closeluca1' target='_blanc'>Canal do youtube</a></li>
 <ul></ul>
 <p>Tecnologias q<i>u</i>e utilizo 👇🏼</p>
 
