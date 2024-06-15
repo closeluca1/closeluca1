@@ -10,7 +10,7 @@ _Programador <b>d</b>esde 2019_
 <!-- <li>📍 De Vila <i>V</i>elha - ES</li> -->
 
 ### Experiências
-<li>💻 Diretor de Tecnologia de Operações <a href='https://hubresult.com/' target='_blanc'>HubResult</a> (atualmente)</li>
+<li>💻 Diretor de Tecnologia de Operações <a href='https://hubresult.com/' target='_blank'>HubResult</a> (atualmente)</li>
 <li>Desenvolvedor Freelance React Native do app Shopping Parts</li>
 <li>Desenvolvedor Full Stack Web na agência Dellossi</li>
 <li>Desenvolvedor Front-end Web na empresa D A C S Tecnologia da Informação</li>
@@ -26,10 +26,10 @@ _Programador <b>d</b>esde 2019_
 <li>Diversos cursos sobre Segurança da Informação e LGPD – Enap</li>
 
 ### Contato
-<li><a href='https://www.linkedin.com/in/p-luca' target='_blanc'>Linkedin</a></li>
-<li><a href='https://closeluca1.github.io/patrick-martins-resume/' target='_blanc'>Curriculo</a></li>
-<li>☕ <a href='https://www.instagram.com/closeluca1' target='_blanc'>Instagram</a></li>
-<li><a href='https://www.youtube.com/@closeluca1' target='_blanc'>Canal do youtube</a></li>
+<li><a href='https://www.linkedin.com/in/p-luca' target='_blank'>Linkedin</a></li>
+<li><a href='https://closeluca1.github.io/patrick-martins-resume/' target='_blank'>Curriculo</a></li>
+<li>☕ <a href='https://www.instagram.com/closeluca1' target='_blank'>Instagram</a></li>
+<li><a href='https://www.youtube.com/@closeluca1' target='_blank'>Canal do youtube</a></li>
 <ul></ul>
 <p>Tecnologias q<i>u</i>e utilizo 👇🏼</p>
 
