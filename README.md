@@ -10,7 +10,8 @@ _Programador <b>d</b>esde 2019_
 <!-- <li>📍 De Vila <i>V</i>elha - ES</li> -->
 
 ### Experiências
-<li>💻 Diretor de Tecnologia de Operações <a href='https://hubresult.com/' target='_blank'>HubResult</a> (atualmente)</li>
+<li>Desenvolvedor Full Stack em <a href='https://seumenuexpert.com.br/' target='_blank'>Seu <i>Menu</i> Expert</a></li>
+<li>Diretor de Tecnologia de Operações <a href='https://hubresult.com/' target='_blank'>HubResult</a></li>
 <li>Desenvolvedor Freelance React Native do app Shopping Parts</li>
 <li>Desenvolvedor Full Stack Web na agência Dellossi</li>
 <li>Desenvolvedor Front-end Web na empresa D A C S Tecnologia da Informação</li>
