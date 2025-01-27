@@ -11,7 +11,7 @@ _Programador <b>d</b>esde 2019_
 
 ### Experiências
 <li>Desenvolvedor Full Stack Junior em <a href='https://bnpsolucoes.com.br' target='_blank'>BNP Solucoes em Ti</li>
-<li>Desenvolvedor Full Stack em <a href='https://seumenuexpert.com.br/' target='_blank'>Seu <i>Menu</i> Expert</a></li>
+<!-- <li>Desenvolvedor Full Stack em <a href='https://seumenuexpert.com.br/' target='_blank'>Seu <i>Menu</i> Expert</a></li> -->
 <li>Diretor de Tecnologia de Operações <a href='https://hubresult.com/' target='_blank'>HubResult</a></li>
 <li>Desenvolvedor Full Stack Web na agência Dellossi</li>
 <li>Desenvolvedor Front-end Web na empresa D A C S Tecnologia da Informação</li>
@@ -21,6 +21,7 @@ _Programador <b>d</b>esde 2019_
 <li>📜 Graduação, Superior em Desenvolvimento de Banco de Dados (CST) - 2021 - 2023</li>
 
 ### Certificações
+<li>Foundational C# Wwith Microsoft</li>
 <li>React Native – Udemy</li>
 <li>EXIN ISO 27001: Information Security Fundamentals – Udemy</li>
 <li>Green Belt Lean Six Sigma – The Council For Six Sigma</li>
