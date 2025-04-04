@@ -59,7 +59,6 @@ _Programador <b>d</b>esde 2019_
   - Application built in `react native`, `nodejs/mongo` with authentication system. The application is a generator of daily motivational phrases, where the user can save the phrase, view others who liked them, suggest content and edit the profile; App available on PlayStore.
     - >https://play.google.com/store/apps/details?id=com.elafrases -->
 
-##
 
 <!-- 
 
