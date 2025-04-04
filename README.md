@@ -1,5 +1,5 @@
 ## Hi, I'm Patrick! xD
-
+<!--
 Sou um desenvolvedor de software de Vila Velha, ES, Brasil, com uma sólida base em tecnologias front-end e back-end. Adoro desenvolver aplicações web, desde o gerenciamento de banco de dados até a criação de interfaces front-end amigáveis. Também me aprofundo no desenvolvimento mobile com React Native quando necessário. Meu objetivo é transformar as ideias dos clientes em ferramentas práticas e úteis.
 
 Atualmente, estou focado em aprimorar meus conhecimentos em Segurança da Informação para garantir que as aplicações que desenvolvo sejam não apenas funcionais, mas também seguras.
@@ -7,11 +7,11 @@ Atualmente, estou focado em aprimorar meus conhecimentos em Segurança da Inform
 _Programador <b>d</b>esde 2019_
 
 <h3>"Code e Confia"</h3>
-<!-- <li>📍 De Vila <i>V</i>elha - ES</li> -->
+<!-- <li>📍 De Vila <i>V</i>elha - ES</li>
 
 ### Experiências
 <li>Desenvolvedor Full Stack Junior em <a href='https://bnpsolucoes.com.br' target='_blank'>BNP Solucoes em Ti</li>
-<!-- <li>Desenvolvedor Full Stack em <a href='https://seumenuexpert.com.br/' target='_blank'>Seu <i>Menu</i> Expert</a></li> -->
+<!-- <li>Desenvolvedor Full Stack em <a href='https://seumenuexpert.com.br/' target='_blank'>Seu <i>Menu</i> Expert</a></li> 
 <li>Diretor de Tecnologia de Operações <a href='https://hubresult.com/' target='_blank'>HubResult</a></li>
 <li>Desenvolvedor Full Stack Web na agência Dellossi</li>
 <li>Desenvolvedor Front-end Web na empresa D A C S Tecnologia da Informação</li>
@@ -35,7 +35,7 @@ _Programador <b>d</b>esde 2019_
 <ul></ul>
 <p>Tecnologias q<i>u</i>e utilizo 👇🏼</p>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,angular,cs,php,firebase,figma,vscode&perline=15)](https://hubresult.com/patrick-martins)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,angular,cs,php,firebase,figma,vscode&perline=15)](https://hubresult.com/patrick-martins) -->
  
 <!--
 - Full-Stack developer
